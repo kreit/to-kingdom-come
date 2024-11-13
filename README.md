@@ -6,7 +6,7 @@
 
 **These functions do not require a `return` statement.**
 
-1. Develop a function that adds a strikethrough style to the text of the first `<li>` element in the "Arguments" unordered list (`<ul`). This function, because it has a consistent behavior, does not require any parameters.
+1. Develop a function that adds a strikethrough style to the text of the first `<li>` element in the "Arguments" unordered list (`<ul`). This function, because it has a consistent behavior, does not require any parameters. textDecoration <--- CSS attribute to use 'strikethrough'
 
 2. Apply the function to the first list item (`<li>`), rendering it with a strikethrough style.
 
