@@ -1,4 +1,5 @@
 function strikeThrough(){
-   const node =  document.quierySelector('#arguments' > 'li')
-    
+   const firsArgItem =  document.quierySelector('#arguments' > 'li')
+   firstArgItem.style
 }
+
